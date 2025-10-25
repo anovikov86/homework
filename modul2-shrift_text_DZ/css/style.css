@@ -1,0 +1,47 @@
+.some-text {
+    font-family: "Open Sans", "Arial", sans-serif;
+    font-size: 20px;
+    line-height: 60px;
+    text-align: left;
+    font-weight: 300;
+    font-style: italic;
+}
+
+.some-text1 {
+    font-family: "lato", "Tahoma", sans-serif;
+    word-spacing: 30px;
+    font-weight: 700;
+    text-align: center;
+    letter-spacing: 5px;
+    font-size: 20px;
+}
+
+.some-text2 {
+    font-family: "Caprasimo", "Verdana", serif;
+    font-weight: 400;
+    text-align: justify;
+    line-height: 30px;
+}
+
+.some-text3 {
+    font-family: "Arial", sans-serif;
+    font-weight: 200;
+    text-decoration: double underline;
+    letter-spacing: 10px;
+
+}
+
+.some-text4 {
+    .font-family: "Playwrite DE SAS", "Helvetica", cursive;
+    font-weight: 200;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    word-spacing: 30px;
+    text-align: right;
+    text-decoration: underline;
+    text-decoration-style: wavy;
+    font-size: 50px;
+}
+
+}
