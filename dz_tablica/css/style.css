@@ -1,0 +1,45 @@
+* {
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: "Montserrat" "Arial" sans-serif;
+  src: url("../fonts/Montserrat/Montserrat-Italic-VariableFont_wght.ttf");
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  min-width: 200px;
+  background-color: rgb(200, 243, 239);
+}
+
+caption {
+    border: 2px solid #000;
+    border-bottom: none;
+    font-weight: 1000;
+    background-color: blueviolet;
+}
+
+thead {
+  border: 2px solid #000;
+}
+
+th {
+  border: 1px solid #000;
+  background-color: rgb(132, 207, 132);
+}
+
+td {
+  border: 1px solid #000;
+  text-align: center;
+}
+
+.weekend {
+    background-color: rgba(243, 127, 60, 0.692);
+    color: red;
+}
+
+.weekend-1 {
+    color: red;
+}
