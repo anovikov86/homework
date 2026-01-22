@@ -1,0 +1,36 @@
+form {
+  width: 270px;
+  background-color: aqua;
+}
+
+.title {
+    font-weight: 700;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.info {
+  display: block;
+  border-radius: 5px;
+}
+
+.checkbox {
+    cursor: pointer;
+}
+
+textarea {
+  display: block;
+  border-radius: 5px;
+  resize: vertical;
+  max-height: 200px;
+  min-height: 20px;
+}
+
+button {
+  cursor: pointer;
+  background-color: rgba(7, 245, 19, 0.856);
+  color: rgb(247, 18, 18);
+}
