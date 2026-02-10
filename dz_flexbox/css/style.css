@@ -1,0 +1,40 @@
+html {
+  font-family: sans-serif;
+}
+
+body * {
+  box-sizing: border-box;
+}
+
+.container {
+  max-width: 1300px;
+  min-height: auto;
+  margin: 0 auto;
+  padding: 10px;
+  border-bottom: 3px solid #b8b0b0;
+  font-weight: bold;
+}
+
+.flex-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  width: 3vw;
+  height: auto;
+}
+
+.main {
+  display: flex;
+  gap: 20px;
+}
+
+a {
+  color: black;
+}
+
+.tel {
+  text-decoration: none;
+}
